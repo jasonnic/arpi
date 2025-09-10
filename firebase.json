@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "site": "gemini-learning",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "id": "ssrgeminilearning",
+      "region": "us-central1"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "truck-image-1",
+      "description": "A truck on a highway",
+      "imageUrl": "https://picsum.photos/seed/truck1/600/400",
+      "imageHint": "truck highway"
+    }
+  ]
+}
